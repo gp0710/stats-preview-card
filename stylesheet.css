@@ -153,10 +153,6 @@ p {
         border-bottom-right-radius: 10px;
     }
 
-    .header-image {
-        height: fit-content;
-    }
-
     .header-image img {
         width: -webkit-fill-available;
         margin-bottom: -3px;
